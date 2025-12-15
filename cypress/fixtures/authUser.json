@@ -1,0 +1,16 @@
+{
+  "firstName": "John Doe",
+  "lastName": "John last Name",
+  "email": "Ruth80@yahoo.com",
+  "telephone": "+1234567890",
+  "fax": "+1234567890",
+  "company": "John Company",
+  "address1": "John Address 1",
+  "address2": "John Address 2",
+  "city": "Kyiv",
+  "zone": "Kyiv",
+  "postalcode": "02022",
+  "country": "Ukraine",
+  "loginName": "Paolo_Wolf-Carroll3",
+  "password": "JohnStrongPass"
+}
